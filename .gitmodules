@@ -1,3 +1,3 @@
 [submodule "the-program/lib/libdxfrw"]
 	path = the-program/lib/libdxfrw
-	url = https://github.com/codelibs/libdxfrw
+	url = https://github.com/HenryFBP/libdxfrw
